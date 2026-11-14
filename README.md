@@ -2,7 +2,7 @@
 
 ## That Time I Got Reincarnated as a Slime
 
-![Anime](https://placehold.co/600x250?text=That+Time+I+Got+Reincarnated+as+a+Slime)
+![Anime]([https://placehold.co/600x250?text=That+Time+I+Got+Reincarnated+as+a+Slime](https://www.imdb.com/title/tt9054364/))
 
 ---
 
