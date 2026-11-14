@@ -72,20 +72,6 @@ Abilities: Many Powerful Skills
 Role: Leader
 ```
 
-### ✅ My Favorite Things to Watch
-
-- [x] Rimuru's battles
-- [x] The creation of Tempest
-- [x] Meeting new characters
-- [x] Funny moments with his friends
-- [ ] Seeing more of Rimuru's adventures
-
-### 🔗 Where to Learn More
-
-You can learn more about the anime here:
-
-[That Time I Got Reincarnated as a Slime - Official Website](https://www.ten-sura.com/)
-
 ---
 
 ### 📝 Conclusion
